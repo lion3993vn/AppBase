@@ -1,0 +1,15 @@
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.AssemblyInfoInputs.cache
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.AssemblyInfo.cs
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.sourcelink.json
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\bin\Debug\net8.0\App.Repository.deps.json
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\bin\Debug\net8.0\App.Repository.runtimeconfig.json
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\bin\Debug\net8.0\App.Repository.dll
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\bin\Debug\net8.0\App.Repository.pdb
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.csproj.AssemblyReference.cache
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.dll
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\refint\App.Repository.dll
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.pdb
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\App.Repository.genruntimeconfig.cache
+C:\Users\Pham Hieu\Desktop\AppBase\BE\AppBase\App.Repository\obj\Debug\net8.0\ref\App.Repository.dll
